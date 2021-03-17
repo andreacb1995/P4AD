@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<productosVO>
+   <producto>
+		<referencia>CD00001000</referencia>
+		<nombre>Hay alguien haí</nombre>  
+		<descripcion>Disco directo de los Suaves 1989</descripcion> 
+		<cantidad>50</cantidad> 
+		<precio>13.45</precio> 
+	</producto>
+	<producto>
+		<referencia>CD00002000</referencia>
+		<nombre>Back in Black</nombre>  
+		<descripcion>Edición coleccionista del emblemático disco de la banda australiana</descripcion> 
+		<cantidad>2</cantidad> 
+		<precio>65.00</precio> 
+	</producto>
+	<producto>
+		<referencia>CD00003000</referencia>
+		<nombre>Grande cásicos</nombre>  
+		<descripcion>Recopilatorio de las obras más relevantes de compositores del siglo XVII</descripcion> 
+		<cantidad>10</cantidad> 
+		<precio>6.99</precio> 
+	</producto>
+	<producto>
+		<referencia>CD00004000</referencia>
+		<nombre>Nevermind</nombre>  
+		<descripcion></descripcion> 
+		<cantidad>7</cantidad> 
+		<precio>16.00</precio> 
+	</producto>
+	<producto>
+		<referencia>CD00005000</referencia>
+		<nombre>A day at the races</nombre>  
+		<descripcion>Disco firmado por Freddie Mercury</descripcion> 
+		<cantidad>50</cantidad> 
+		<precio>599.99</precio> 
+	</producto>
+	<producto>
+		<referencia>CD00006000</referencia>
+		<nombre>20 años de chirigotas</nombre>  
+		<descripcion>Recopilatorio de chirigotas galardonadas entre 1985 y 2005</descripcion> 
+		<cantidad>12</cantidad> 
+		<precio>4.30</precio> 
+	</producto>
+</productosVO>
